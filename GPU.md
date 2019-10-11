@@ -1,0 +1,4 @@
+- discovery cluster
+- colab?
+- kernels 30 hr/week
+- GPU $300 credits?
